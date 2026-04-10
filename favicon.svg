@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <linearGradient id="bg" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#f4efe6" />
+      <stop offset="100%" stop-color="#e3d8c5" />
+    </linearGradient>
+    <linearGradient id="ring" x1="0%" x2="100%" y1="0%" y2="100%">
+      <stop offset="0%" stop-color="#314885" />
+      <stop offset="100%" stop-color="#bc4232" />
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" rx="120" fill="url(#bg)" />
+  <rect x="28" y="28" width="456" height="456" rx="108" fill="none" stroke="url(#ring)" stroke-width="18" />
+  <circle cx="386" cy="126" r="40" fill="#c28f2c" opacity=".22" />
+  <circle cx="128" cy="372" r="52" fill="#bc4232" opacity=".15" />
+  <text
+    x="256"
+    y="306"
+    fill="#bc4232"
+    font-family="'Noto Sans JP', 'Yu Gothic', sans-serif"
+    font-size="228"
+    font-weight="900"
+    text-anchor="middle"
+  >あ</text>
+</svg>
